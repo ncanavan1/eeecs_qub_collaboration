@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Canavan  
+    given-names: Niall  
+    orcid: 
+title: "collab"
+version: v1.0.0
+doi: 10.5072/zenodo.14580
+date-released: 20/12/23
